@@ -48,4 +48,3 @@ end
 def using_delete_ar(array, integer)
   array[integer].delete()
 end
-
